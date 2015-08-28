@@ -1,0 +1,12 @@
+{
+  "title": "About:Newtab",
+  "name": "aboutnewtab",
+  "version": "0.0.1",
+  "description": "Change background image of new tab page",
+  "main": "index.js",
+  "author": "Hieuns",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "No license"
+}
